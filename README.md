@@ -1,13 +1,16 @@
 - 👋 Hi, I’m @musigahstallone
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in .NET framework by Microsoft and NextJS framework by Vercel.
+- 🌱 I’m currently learning C#, ASP.NET, .NET MAUI, NextJS, TypeScript and TailwindCSS  
+- 💞️ I’m looking to collaborate on projects that invlove web development, and even mobile and desktop development
+- 📫 Reach me through the following
+       Instagram 🌐 [https://www.instagram.com/am_stallone]
+       Twitter 🌐 [https://twitter.com/musigahstallone]
 
 <!---
 musigahstallone/musigahstallone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 # 👋 Hello, I'm **@musigahstallone!**
 
 🚀 Welcome to the World of **Innovative Solutions!** 🚀
@@ -36,8 +39,9 @@ Whether you're dreaming of a **sleek desktop application, a dynamic Android app,
 📞 **Let's Connect!**
 Ready to turn your ideas into reality? I'm just a message away! 
 Let's **collaborate, innovate, and build something extraordinary together**. Your success story starts here!
-
+<!--
 🌐 [Portfolio Link]
+-->
 
 Let's make waves in the **digital realm!** 🚀💻✨
 
