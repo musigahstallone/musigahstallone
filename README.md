@@ -30,9 +30,9 @@ and an obsession with creating **beautiful software**. Your project isn't just a
 🛠️ **My Expertise:**
 - **.NET Magic:** I wield the power of the **.NET framework** like a wizard.
 - **C# Specialist:** With **C#**, I bring **logic and elegance** together in perfect harmony.
-  I weave spells with code, bringing ideas to life on .NET, C#, and various platforms.
-  Binary Morning Bird: I speak the language of ones and zeros, crafting elegant solutions in C# for Windows, Android, and web domains.
-  Digital Alchemist: I transform raw data into valuable applications, leveraging my mastery of .NET and C# across diverse platforms.
+- **My Love Language:** I weave spells with code, bringing ideas to life on .NET, C#, and various platforms.
+  **Binary Morning Bird:** I speak the language of ones and zeros, crafting elegant solutions in C# for Windows, Android, and web domains.
+  **Digital Alchemist:** I transform raw data into valuable applications, leveraging my mastery of .NET and C# across diverse platforms.
 
 - **Platform Versatility:** **Windows, Android, or the vast web** – I've got them covered.
 
