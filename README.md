@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C#, ASP.NET, .NET MAUI, NextJS, TypeScript and TailwindCSS  
 - 💞️ I’m looking to collaborate on projects that invlove web development, and even mobile and desktop development
 - 📫 Reach me through the following
-       Instagram 🌐 [https://www.instagram.com/am_stallone]
-       Twitter 🌐 [https://twitter.com/musigahstallone]
+  * [Instagram ](https://www.instagram.com/am_stallone)
+  * [Twitter ](https://twitter.com/musigahstallone) 
 
 <!---
 musigahstallone/musigahstallone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
