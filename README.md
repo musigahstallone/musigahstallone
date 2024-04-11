@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @musigahstallone
 - 👀 I’m interested in .NET framework by Microsoft and NextJS framework by Vercel.
-- 🌱 I’m currently learning C#, ASP.NET, .NET MAUI, NextJS, TypeScript and TailwindCSS  
+- 🌱 I’m currently interested in C#, ASP.NET and Blazor (.NET web Framework Tool), .NET MAUI, NextJS, TypeScript and TailwindCSS and Bootstrap.
 - 💞️ I’m looking to collaborate on projects that invlove web development, and even mobile and desktop development
 - 📫 Reach me through the following
   * [Instagram ](https://www.instagram.com/am_stallone)
-  * [Twitter ](https://twitter.com/musigahstallone) 
+  * [Twitter ](https://twitter.com/musigahstallone)
+  * [LinkedIn](https://www.linkedin.com/in/stallone-odhiambo-2b2644224/)
 
 <!---
 musigahstallone/musigahstallone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,9 +47,9 @@ Whether you're dreaming of a **sleek desktop application, a dynamic Android app,
 📞 **Let's Connect!**
 Ready to turn your ideas into reality? I'm just a message away! 
 Let's **collaborate, innovate, and build something extraordinary together**. Your success story starts here!
-<!--
-🌐 [Portfolio Link]
--->
+
+My Portfolio Website
+🌐 [https://musigahstallone.vercel.app]
 
 Let's make waves in the **digital realm!** 🚀💻✨
 
