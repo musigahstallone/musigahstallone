@@ -36,10 +36,6 @@ and an obsession with creating **beautiful software**. Your project isn't just a
 - **Digital Alchemist:** I transform raw data into valuable applications, leveraging my mastery of .NET and C# across diverse platforms.
 - **Platform Versatility:** **Windows, Android, or the vast web** – I've got them covered.
 
-
-Binary Morning Bird: I speak the language of ones and zeros, crafting elegant solutions in C# for Windows, Android, and web domains.
-Digital Alchemist: I transform raw data into valuable applications, leveraging my mastery of .NET and C# across diverse platforms.
-
 🚀 **Let's Build Something Great!**
 Embark on a journey with me, and together we'll create software that not only meets but exceeds your expectations.
 Whether you're dreaming of a **sleek desktop application, a dynamic Android app, or a captivating web presence**, I've got the skills to bring your vision to life.
