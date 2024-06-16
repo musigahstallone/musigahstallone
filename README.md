@@ -45,5 +45,7 @@ Ready to turn your ideas into reality? I'm just a message away!
 Let's **collaborate, innovate, and build something extraordinary together**. Your success story starts here!
 
 🌐 [My Portfolio Website](https://musigahstallone.vercel.app)
-Let's make waves in the **digital realm!** 🚀💻✨
+
+
+- Let's make waves in the **digital realm!** 🚀💻✨
 
